@@ -1,27 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body, html {
-    height: 100%;
-    margin: 0;
-}
-
-.bg {
-    /* The image used */
-    background-image: url("trees.jpg");
-
-    /* Full height */
-    height: 100%; 
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-</style>
+    <title>Food Generation</title>
+    <style>
+    body{
+         background-color:#ff6600;
+      }
+      h1  {
+          background-color: orange;
+      }
+      p {
+        background:rgb(255, 102, 0);
+       }
+    </style
 </head>
 <body>
-
-<div class="bg"></div>
+    <h1>Food Generator</h1>
+    <p>Click on Food to see a random food you should try!.</p>
+    <div id="Food Display">
+        <!Food will display here-->
+    </div>
+    <button onclick="newFood()">New Food</button>
+    <script src="javasccript.js></script>
+</body>
+</html>
