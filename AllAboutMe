@@ -122,9 +122,6 @@ function openTab(evt,TabName) {
 <div class="main">
   <img class= "header" scr=https://www.planwallpaper.com/static/images/6775415-beautiful-images.jpg>
   <div class="name">
-  <button class="projects">Projects</button>
-  <button class="passions">Passions</button>
-  <button class="experiences">Experiences</button>
 </div>
 </body>
 
