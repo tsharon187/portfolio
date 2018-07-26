@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   p{color:black;}
-    body{background-color:green;}
+    body{background-color:light green;}
 body {font-family: Arial;}
 
 /* Style the tab */
